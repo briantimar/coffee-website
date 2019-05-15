@@ -1,4 +1,4 @@
-.main {
+.title {
     text-align: center
 }
 
@@ -7,7 +7,5 @@
 }
 
 .comment {
-    display: inline-block;
     text-align: center;
-    margin: auto;
 }
