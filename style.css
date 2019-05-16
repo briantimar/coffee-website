@@ -9,3 +9,21 @@
 .comment {
     text-align: center;
 }
+
+.pagecontainer {
+    position: relative;
+    /* 100 percent of the viewport height */
+    min-height: 100%;
+}
+
+.bodywrap {
+    padding-bottom: 2em;
+}
+
+.footer {
+    position: absolute;
+    height: 2em;
+    bottom: 0;
+    text-align: left;
+    width: 100%
+}
